@@ -3,6 +3,9 @@
 A new Flutter project created with FlutLab - https://flutlab.io
 
 ## Getting Started
+![image](https://github.com/user-attachments/assets/77787674-0e06-4a0e-85cc-3986c1545f76)
+![image](https://github.com/user-attachments/assets/84838de9-24b4-45aa-b305-679c56b1d05a)
+![image](https://github.com/user-attachments/assets/cf5ddc06-5648-464b-b6bc-ec23e8adea41)
 
 A few resources to get you started if this is your first Flutter project:
 
